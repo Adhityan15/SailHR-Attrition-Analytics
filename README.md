@@ -54,6 +54,9 @@ Make policies on workload, time-off, and overtime explicit and fair
 
 Stop linking best evaluations only to extreme working hours
 
+<img width="2269" height="912" alt="image" src="https://github.com/user-attachments/assets/52226a7c-01a9-437a-a37a-003049fc28c3" />
+
+
 📌 7. Next Steps (Future Work)
 
 Try model without last_evaluation to check data leakage
